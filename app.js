@@ -13,6 +13,14 @@ var MODULOS = {
   green: {
     nombre: "SmartGreenZone",
     url: "https://app.powerbi.com/view?r=eyJrIjoiOTI4ZGUwMjYtYjU4Mi00Y2MwLWI4OTUtMTkxMWQxMDIxMjhjIiwidCI6IjA3ZGE2N2EwLTFmNDMtNGU4Yy05NzdmLTVmODhiNjQ3MGVlNiIsImMiOjR9"
+  },
+  luz: {
+    nombre: "SmartLight",
+    url: "https://app.powerbi.com/view?r=eyJrIjoiMGYzOTY1NzgtYWRkYi00NWIwLTk2NzgtNDI3YTI0NTRhZjVjIiwidCI6IjA3ZGE2N2EwLTFmNDMtNGU4Yy05NzdmLTVmODhiNjQ3MGVlNiIsImMiOjR9"
+  },
+  agua: {
+    nombre: "SmartWater",
+    url: "https://app.powerbi.com/view?r=eyJrIjoiYjI0YTAyNzEtNjM3ZC00M2Y2LWFjYTktZGRkODZhYWIxOTEzIiwidCI6IjA3ZGE2N2EwLTFmNDMtNGU4Yy05NzdmLTVmODhiNjQ3MGVlNiIsImMiOjR9"
   }
 };
 
